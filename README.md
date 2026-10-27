@@ -1,6 +1,8 @@
 # ble_device_simulator
 
 [![pub package](https://img.shields.io/pub/v/ble_device_simulator.svg)](https://pub.dev/packages/ble_device_simulator)
+[![pub points](https://img.shields.io/pub/points/ble_device_simulator)](https://pub.dev/packages/ble_device_simulator/score)
+[![likes](https://img.shields.io/pub/likes/ble_device_simulator)](https://pub.dev/packages/ble_device_simulator/score)
 [![CI](https://github.com/ChandraChaan/ble_device_simulator/actions/workflows/ci.yml/badge.svg)](https://github.com/ChandraChaan/ble_device_simulator/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
