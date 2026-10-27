@@ -1,9 +1,7 @@
 name: ble_device_simulator
 description: >-
-  Simulated Bluetooth LE heart-rate, blood pressure, thermometer, pulse
-  oximeter, power meter, foot pod and scale devices that send spec-correct
-  GATT bytes. Build and test BLE apps without hardware.
-version: 0.1.0
+  Simulated Bluetooth LE heart-rate, blood pressure, SpO2, thermometer, cycling, running and scale devices that send real GATT bytes. Test BLE apps without hardware.
+version: 0.1.1
 repository: https://github.com/ChandraChaan/ble_device_simulator
 issue_tracker: https://github.com/ChandraChaan/ble_device_simulator/issues
 topics:
